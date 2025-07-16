@@ -1,4 +1,4 @@
-package Queue;
+package ex_32_Collection_Framework.LIST.Queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;
